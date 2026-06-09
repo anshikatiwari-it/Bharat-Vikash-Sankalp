@@ -76,3 +76,13 @@ form button{
   border-radius:6px;
   cursor:pointer;
 }
+.gallery-img{
+  width:500px;
+  margin : 0 auto;
+ 
+}
+.community-img{
+  width:300px;
+  margin: 0 ;
+}
+  
