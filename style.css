@@ -79,6 +79,10 @@ form button{
 .gallery-img{
   width:500px;
   margin : 0 auto;
+  height: auto;
+  display: block;
+  width: 60%;
+  height: auto;
  
 }
 .community-img{
